@@ -201,7 +201,7 @@ bb::after{
 #header-subname{
 	float:left;
     text-align: left;
-	font-size:30px;
+	font-size:40px;
 	font-family:"Markazi Text", Helvetica, Arial, sans-serif;
 	color:#222;
 	margin:0 0 0 0;
@@ -238,7 +238,7 @@ bb::after{
   #header-subname{
 	float:none;
     text-align: left;
-	font-size:30px;
+	font-size:40px;
 	font-family:"Markazi Text", Helvetica, Arial, sans-serif;
 	color:#222;
 	margin:0 0 0 0;
@@ -278,7 +278,7 @@ bb::after{
   #header-subname{
 	float:none;
     text-align: left;
-	font-size:20px;
+	font-size:30px;
 	font-family:"Markazi Text", Helvetica, Arial, sans-serif;
 	color:#222;
 	margin:0 0 0 0;
