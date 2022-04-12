@@ -613,3 +613,18 @@ bb::after{
   overflow: auto;
   transition: max-height 0.2s ease-out;
 }
+
+th {
+  padding-top: 10px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+  padding-right: 20px;
+}
+
+td {
+  padding-top: 0px;
+  padding-bottom: 5px;
+  padding-left: 0px;
+  padding-right: 20px;
+}
+
